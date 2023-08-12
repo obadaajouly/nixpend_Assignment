@@ -1,0 +1,19 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "a dynamic to-do list application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/obadaajouly/nixpend_Assignment.git"
+  },
+  "author": "Obada Ajouly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/obadaajouly/nixpend_Assignment/issues"
+  },
+  "homepage": "https://github.com/obadaajouly/nixpend_Assignment#readme"
+}
