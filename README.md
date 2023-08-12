@@ -24,19 +24,19 @@ To start the project, follow these steps:
    npm start
 
 ## Features
-    ##### Create, edit, and delete tasks with ease.
-    ##### Organize tasks into sections: To-do, Doing, Done.
-    ##### Monitor task progress visually with progress bars.
-    ##### Add subtasks and detailed descriptions to tasks.
-    #####Interactive charts powered by Chart.js for tracking progress.
+    - Create, edit, and delete tasks with ease.
+    - Organize tasks into sections: To-do, Doing, Done.
+    - Monitor task progress visually with progress bars.
+    - Add subtasks and detailed descriptions to tasks.
+    - Interactive charts powered by Chart.js for tracking progress.
 
 ## Features
-    ##### React JS: Frontend framework for building user interfaces.
-    ##### MongoDB: NoSQL database for efficient data storage.
-    ##### Node.js and Express: Backend infrastructure for API communication.
-    ##### Chart.js: JavaScript library for interactive charts.
+    - React JS: Frontend framework for building user interfaces.
+    - MongoDB: NoSQL database for efficient data storage.
+    - Node.js and Express: Backend infrastructure for API communication.
+    - Chart.js: JavaScript library for interactive charts.
 
 ## Contact
-    For any questions or inquiries, please contact Obada Ajouly at obadaajoouly@email.com.
+    For any questions or inquiries, please contact Obada Ajouly at obadaajouly@email.com.
 
     Thank you
