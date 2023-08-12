@@ -9,7 +9,7 @@ To start the project, follow these steps:
 1. Clone or download this repository to your local machine.
 
    ```bash
-   git clone https://github.com/obadaajoulnixpend_Assignment.git
+   git clone https://github.com/obadaajouly/nixpend_Assignment.git
 
 2. Set Up the API Server
    cd nixpend_Assignment
